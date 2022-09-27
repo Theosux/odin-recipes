@@ -1,0 +1,21 @@
+img {
+    height:auto;
+    width: 500px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+div {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color:blanchedalmond;
+}
+* {
+    color:black;
+    background-color: darkred;
+}
+h1 {
+    color:gold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
